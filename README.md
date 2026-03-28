@@ -10,11 +10,13 @@
 
 
 !# 📊 GitHub Stats:
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AVINASH6067&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AVINASH6067&show_icons=true&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=AVINASH6067&theme=dark&hide_border=true)<br/>
 
-![Streak](https://streak-stats.demolab.com?user=AVINASH6067&theme=dark&hide_border=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AVINASH6067&theme=dark&hide_border=true&layout=compact)
 
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AVINASH6067&theme=dark&hide_border=true&layout=compact)
+---
 
+[![](https://visitcount.itsvg.in/api?id=AVINASH6067&icon=7&color=10)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
